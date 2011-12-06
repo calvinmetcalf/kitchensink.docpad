@@ -45,7 +45,7 @@
 	"dependencies": {
 		"coffee-script": "1.1.x",
 		"express": "2.5.x",
-		"docpad": "2.4.0"
+		"docpad": "http://dl.dropbox.com/u/37626989/calvinmetcalf-docpad-9d7a4b1.tar.gz"
 	},
 	"engines" : {
 		"node": ">=0.4.0"
